@@ -1,3 +1,4 @@
+// Este codigo emplea 9 diales en paralelo, todos deben estar correctamente conectados para fucnionar
 
 #define CLOCK_PIN_A 2
 #define DATA_PIN_A  3
