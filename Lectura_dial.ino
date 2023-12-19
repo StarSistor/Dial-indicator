@@ -1,3 +1,4 @@
+// Este codigo emplea un pulsador para incrementar el numero de diales a leer
 #define NUM_SENSORS 8
 
 // Define pin assignments for CLOCK and DATA pins
