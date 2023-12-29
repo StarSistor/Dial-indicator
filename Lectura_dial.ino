@@ -2,8 +2,8 @@
 #define NUM_SENSORS 8
 
 // Define pin assignments for CLOCK and DATA pins
-const int CLOCK_PINS[NUM_SENSORS] = {4, 6, 8, 10, 12, A0, A2, A4};
-const int DATA_PINS[NUM_SENSORS] = {3, 5, 7, 9, 11, A1, A3, A5};
+const int CLOCK_PINS[NUM_SENSORS] = {4, 6, 8, 10, 12, A1, A3, A5};
+const int DATA_PINS[NUM_SENSORS] = {3, 5, 7, 9, 11, A0, A2, A4};
 const int BUTTON_PIN = 2;
 
 char buf[NUM_SENSORS][20];
